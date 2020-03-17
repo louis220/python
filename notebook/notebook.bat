@@ -1,0 +1,1 @@
+activate bitenv && jupyter notebook .
